@@ -4,8 +4,7 @@ por: github.com/iurisaints
 
 Arquitetura do projeto utilizando a convenção normal:
 
-```markdown
-apifarmacia/ (pasta raiz)
+
 
 **|-- node_modules/**
 **|-- src/
@@ -20,7 +19,6 @@ apifarmacia/ (pasta raiz)
 |   |-- app.js (seu servidor Node.js)
 |-- package.json
 |-- ...
-```
 
 Antes de tudo, precisamos configurar nosso front:
 
