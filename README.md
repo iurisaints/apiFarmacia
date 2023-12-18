@@ -5,7 +5,7 @@ por: github.com/iurisaints
 Arquitetura do projeto utilizando a convenção normal:
 
 
-
+```
 **|-- node_modules/**
 **|-- src/
 |   |— clients/**
@@ -19,7 +19,7 @@ Arquitetura do projeto utilizando a convenção normal:
 |   |-- app.js (seu servidor Node.js)
 |-- package.json
 |-- ...
-
+```
 Antes de tudo, precisamos configurar nosso front:
 
 no terminal:
