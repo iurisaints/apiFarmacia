@@ -1,0 +1,17 @@
+{
+    "Fornecedor": [
+      {
+        "id": 1,
+        "nome": "Abraão Farmácias",
+        "endereco": "Rua dos Cedros, 123",
+        "telefone": "123456789"
+      },
+      {
+        "id": 2,
+        "nome": "Sara Produtos Médicos",
+        "endereco": "Avenida das Oliveiras, 456",
+        "telefone": "987654321"
+      }
+    ]
+  }
+  

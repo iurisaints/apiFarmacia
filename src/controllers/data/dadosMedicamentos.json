@@ -1,0 +1,19 @@
+{
+    "Medicamento": [
+      {
+        "id": 1,
+        "nome": "Ritalina",
+        "fabricante": "Remedios Ltda.",
+        "preco": 25.99,
+        "quantidade": 100
+      },
+      {
+        "id": 2,
+        "nome": "Paracetamol",
+        "fabricante": "Vivo Farmacêutica",
+        "preco": 19.99,
+        "quantidade": 150
+      }
+    ]
+  }
+  
